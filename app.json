@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "react-native-demo",
-    "slug": "react-native-demo"
+    "slug": "react-native-demo",
+    "android": {
+      "package": "com.anonymous.reactnativedemo"
+    }
   }
 }
